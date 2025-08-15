@@ -8,8 +8,9 @@ A terminal-based expense tracker in Python to record, view, filter, and visualiz
 
 ## Demo
 
-![Demo_image_01](image.png)
-![Demo_image_02](image-1.png)
+![Demo_image_01](images/add_transaction_demo.png)
+![Demo_image_02](images/view_transaction_demo.png)
+![Demo_image_03](images/filter_transaction_demo.png)
 
 *Example Pie Chart of Expenses*\
 
