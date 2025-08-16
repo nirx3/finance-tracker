@@ -12,7 +12,8 @@ A terminal-based expense tracker in Python to record, view, filter, and visualiz
 ![Demo_image_02](images/view_transaction_demo.png)
 ![Demo_image_03](images/filter_transaction_demo.png)
 
-*Example Pie Chart of Expenses*\
+*Example Pie Chart of Expenses*
+![Pie_Chart_Demo](images/piechart.png)
 
 
 ---
@@ -50,7 +51,7 @@ A terminal-based expense tracker in Python to record, view, filter, and visualiz
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nirx3/finance-tracker
 cd python-expense-tracker
 ```
 
