@@ -52,7 +52,7 @@ A terminal-based expense tracker in Python to record, view, filter, and visualiz
 
 ```bash
 git clone https://github.com/nirx3/finance-tracker
-cd python-expense-tracker
+cd expense-tracker
 ```
 
 2. **Install dependencies**
